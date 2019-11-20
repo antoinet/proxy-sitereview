@@ -7,3 +7,4 @@ A list of site review URLs for different web proxy vendors
 * https://fortiguard.com/webfilter?q=allesscheisse.ch&version=8
 * https://tools.zvelo.com/
 * https://urlfiltering.paloaltonetworks.com/query/
+* http://barracudacentral.org/lookups/lookup-reputation
